@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./style.css";
 
 //this is searchform stuff
 const SearchForm = props => {
